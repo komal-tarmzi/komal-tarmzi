@@ -18,7 +18,6 @@ I believe in learning by building — from data analysis and ML projects to data
 
 - 🎓 **BSc Data Science student at UET Lahore**
 - 🐍 Strong interest in **Python and Data Science**
-- 📊 Interested in **Data Analysis, Machine Learning & AI**
 - 🗄️ Working with **SQL, SQL Server & Database Management Systems**
 - 📈 Exploring **Power BI and data visualization**
 - 💻 Building projects using **C#, OOP, Python, Flask & SQL**
