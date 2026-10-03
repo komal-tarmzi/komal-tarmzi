@@ -4,7 +4,7 @@
 
 ### 📊 Data Science Student | Python | Machine Learning | Data Analysis | SQL | AI
 
-I'm a **Data Science student at UET Lahore** passionate about turning data into meaningful insights and building practical, data-driven solutions.
+I'm a **BSc Data Science student at UET Lahore** passionate about turning data into meaningful insights and building practical, data-driven solutions.
 
 I enjoy working with **Python, Machine Learning, Data Analysis, SQL, databases, and AI**, while continuously strengthening my foundations in programming, algorithms, and software development.
 
@@ -27,7 +27,7 @@ I believe in learning by building — from data analysis and ML projects to data
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 ### 🐍 Programming Languages
 
@@ -40,7 +40,6 @@ I believe in learning by building — from data analysis and ML projects to data
 
 ### 📊 Data Science & Analytics
 
-![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -57,38 +56,32 @@ I believe in learning by building — from data analysis and ML projects to data
 
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Database Management](https://img.shields.io/badge/Database_Management-003B57?style=for-the-badge)
 
-### 🌐 Development
+### 🌐 Development & Tools
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-239120?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## 📚 Education
 
-🌱 **Data Structures & Algorithms**
+**BSc Data Science**  
+University of Engineering and Technology (UET), Lahore
 
-🤖 **Machine Learning & Artificial Intelligence**
+---
 
-📊 **Advanced Data Analysis & Visualization**
+## 📖 Currently Learning
 
-🗄️ **Database Systems & SQL**
-
-🐍 **Advanced Python**
-
-💻 **Object-Oriented Programming**
+- 🌱 **Data Structures & Algorithms**
+- 🤖 **Machine Learning & Artificial Intelligence**
+- 📊 **Advanced Data Analysis & Visualization**
+- 🗄️ **Database Systems & SQL**
+- 🐍 **Advanced Python**
+- 💻 **Object-Oriented Programming**
 
 ---
 
@@ -121,57 +114,12 @@ Exploring datasets through **EDA, preprocessing, feature selection, regression, 
 ## 🎯 My Interests
 
 ```text
-Data Science          ████████████████████
-Machine Learning      ██████████████████
+Data Science           ████████████████████
+Machine Learning       ██████████████████
 Artificial Intelligence████████████████
-Python                ████████████████████
-Data Analysis         ███████████████████
-SQL & Databases       █████████████████
-Data Visualization    ███████████████
-Algorithms & DSA      ███████████████
-Software Development  █████████████
-```
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/komal-tarmzi-33b7223a7/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:komaltarmzi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Komal's GitHub Stats" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Komal's Top Languages" width="38%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="Komal's GitHub Activity" width="97%" />
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 "Learning by building, growing through data."
-
-⭐ If you find any of my projects useful, consider giving them a star!
-
-</div>
+Python                 ████████████████████
+Data Analysis          ███████████████████
+SQL & Databases        █████████████████
+Data Visualization     ███████████████
+Algorithms & DSA       ███████████████
+Software Development   █████████████
