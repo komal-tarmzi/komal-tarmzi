@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Komal Tarmzi
 
-### 📊 Data Science Student | Python | Machine Learning | Data Analysis | SQL | AI
+### 📊 Data Science Student | Python | Data Analysis | SQL | AI
 
 I'm a **BSc Data Science student at UET Lahore** passionate about turning data into meaningful insights and building practical, data-driven solutions.
 
