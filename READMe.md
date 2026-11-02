@@ -45,13 +45,6 @@ I believe in learning by building — from data analysis and ML projects to data
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🤖 Machine Learning & AI
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
-
 ### 🗄️ Databases
 
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
